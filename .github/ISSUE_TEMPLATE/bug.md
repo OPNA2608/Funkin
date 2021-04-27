@@ -10,7 +10,7 @@ labels: bug
 
 1. For your own and everyone else's sake, *please* use the template provided below. Not doing so means:
 
-   - Nobody will know what game version / operating system you're talking about.
+   - Nobody will know what game version / operating system you're talking about - sometimes a bug may already be fixed in a newer version.
    - Nobody will know if it's our fault, your fault, your system's fault or someone else's fault.
    - Everyone will have to comment with follow-up questions regarding these details.
    - You will have to answer these questions via everyone's follow-up questions anyway.
