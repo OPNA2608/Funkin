@@ -25,7 +25,7 @@ labels: bug
    - If in doubt, try another browser
 
 If your unique problem still persists, continue with filling out the following template.
-(Everything enclosed in < & > symbols is a comment with suggestions/hints on what to fill in.)
+(Everything enclosed in < & > symbols is a comment with suggestions/hints on what to fill in. Comments will not be visible to anyone else once you submit your issue.)
 -->
 
 ##### What version of the game are you playing?
