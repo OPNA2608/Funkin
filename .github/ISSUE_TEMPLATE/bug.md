@@ -16,7 +16,7 @@ labels: bug
    - You will have to answer these questions via everyone's follow-up questions anyway.
    - With so many unknown details, nobody might want to try and help you.
 
-2. Please check if anyone else has already filed the same or a similar issue/question and comment there instead of opening a new one. Someone might've already provided a fix/answer, saving you (and us) time and effort.
+2. Please check if anyone else has already filed the same or a similar issue and comment there instead of opening a new one. Someone might've already provided a fix, saving you (and us) time and effort.
 
 3. If your problem is with a browser version, please perform some simple troubleshooting steps before submitting an issue:
 
@@ -24,7 +24,7 @@ labels: bug
    - Clearing AppData
    - If in doubt, try another browser
 
-If your problem/question still persists, continue with filling out the following template.
+If your unique problem still persists, continue with filling out the following template.
 (Everything enclosed in < & > symbols is a comment with suggestions/hints on what to fill in.)
 -->
 
