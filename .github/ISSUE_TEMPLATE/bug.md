@@ -75,3 +75,4 @@ Platform:
 
 Trying to play Tutorial on Easy difficulty instead loads Dadbattle on Hard difficulty. I can reproduce this on both the Itch.io web version and the 64-bit Windows build. It does not occur on the 32-bit Windows build.
 -->
+
